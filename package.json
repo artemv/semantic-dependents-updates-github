@@ -44,7 +44,7 @@
   "dependencies": {
     "@bahmutov/parse-github-repo-url": "^0.1.1",
     "babel-polyfill": "^6.3.14",
-    "github": "^0.2.4"
+    "github": "^1.1.2"
   },
   "devDependencies": {
     "babel-core": "^6.7.4",
